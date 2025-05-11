@@ -1,0 +1,10 @@
+Basic Queries:-
+Q-1:-List All unique cities where customers are located
+Q-2:-Count the number of orders palced in 2017
+Q-3:-Find total sales per category
+Q-4:-calculate percentage of orders that were paid in installments
+Q-5:Count the Number of customers of each state
+
+Intermediate Queries:-
+Q-1:Calculate Number of orders per month in 2018
+Q-2:-Find the average number of products per order,grouped by customer city
